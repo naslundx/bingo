@@ -39,5 +39,7 @@ const addRows = () => {
     }
 }
 
+// ADD custom number of tables
+
 addRow(['B', 'I', 'N', 'G', 'O'], true);
 addRows();
